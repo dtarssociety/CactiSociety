@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf52bcD24776aBbb34144b694213Db06E5d2B1269",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf52bcD24776aBbb34144b694213Db06E5d2B1269",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cacti Society NFT",
+  "SYMBOL": "CSNT",
+  "MAX_SUPPLY": 35,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cacti-society-nft",
+  "SHOW_BACKGROUND": true
+}
